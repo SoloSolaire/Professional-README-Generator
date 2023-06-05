@@ -59,6 +59,7 @@ ${renderLicenseBadge(license)}
 1. [Contributing](#Contributing)
 1. [Tests](#Tests)
 1. [Questions](#Questions)
+1. [License](#License)
 
 ## Description
 ${description}
