@@ -22,7 +22,7 @@ To run this code, Node, an IDE and inquirer is required for it to function. Reme
 This is best used to quickly create a markdown for your repository. Use "node index" in the terminal and the code will run.
 
 ## Walkthrough
-https://drive.google.com/file/d/1McqpkNGdVzyC_fXySp7lW-j4Jro5zOan/view?usp=sharing
+https://drive.google.com/file/d/1fLnBKDmejflxzguCWjFjhcRZRY03cPm9/view?usp=sharing
 
 ## Contributing
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
