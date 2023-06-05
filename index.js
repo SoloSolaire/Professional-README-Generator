@@ -33,7 +33,18 @@ inquirer
             type: 'input',
             message: 'Please add test instructions.',
             name: 'test'
+        },
+        {
+            type: 'input',
+            message: 'What is your Github username?',
+            name: 'github'
+        },
+        {
+            type: 'input',
+            message: 'What is your e-mail address?',
+            name: 'email'
         }
+
     ])
 
 // TODO: Create a function to write README file
